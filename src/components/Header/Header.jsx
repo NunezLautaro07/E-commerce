@@ -9,7 +9,8 @@ function Header() {
     <div>
       <nav className="navbar bg-azul">
         <div className="container-fluid ">
-          <span className="navbar-brand mb-0 h py-3 fs-2 blanco ">E-commerce</span>
+          
+          <Link to="/" className=" mb-0 h py-3 fs-2 blanco sin-link">E-commerce</Link>
           <div className="derecha">
             {/* modal  bars*/}
             <button

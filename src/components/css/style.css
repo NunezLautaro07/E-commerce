@@ -15,5 +15,6 @@
  .altura{height: 250px;
    object-fit: cover;
  }
+ .sin-link{text-decoration: none;}
 
 
